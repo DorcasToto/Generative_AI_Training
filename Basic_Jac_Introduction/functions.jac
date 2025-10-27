@@ -1,4 +1,4 @@
-entry {
+with entry {
     let multiply = func(a, b) {
         return a * b;
     };

@@ -1,4 +1,4 @@
-entry {
+with entry {
     let name = "Dorcas";
     let age = 25;
     let isLearning = true;

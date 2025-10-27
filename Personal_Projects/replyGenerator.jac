@@ -1,4 +1,5 @@
-import from byllm { Model }
+import from byllm.llm { Model }
+
 
 glob llm = Model(
     provider = "anthropic",
